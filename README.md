@@ -1,6 +1,3 @@
-# Hi Ava!
-I made this for you.
-
 ## <u>Build Setup</u>
 1. Clone this project `git clone https://github.com/shidoitsuka/hi-ava.git`
 2. Edit `config.js` file
