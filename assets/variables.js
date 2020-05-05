@@ -7,6 +7,6 @@ export default {
     morning: "Good Morning",
     night: "Good Night",
     monthsary: "Happy Monthsary",
-    anniv: "Happy Anniversary"
+    anniversary: "Happy Anniversary"
   }
 };
